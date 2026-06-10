@@ -1,5 +1,6 @@
 # Levantar contenedores
-```docker compose up -d
+```
+docker compose up -d
 ```
 
 ## Práctica 1: Hola Mundo en Hadoop (WordCount)
